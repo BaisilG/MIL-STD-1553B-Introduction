@@ -79,3 +79,7 @@ Mode Code
 RT to RT Transfer
 ------------------
 
+- initiated by the bus controller 
+- transmit the remote controller
+- 1 to 32 
+
