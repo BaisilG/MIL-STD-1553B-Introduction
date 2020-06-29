@@ -49,6 +49,14 @@ the tranformer coupling method is preffered method. why because is it has improv
 * Transmit Data
 * Broadcast Data
 * Mode Code
-* RT to RT transfer
+* RT to RT transfer ---- # RT is Remote Terminal 
+
+
+Receive Data Message 
+----------------------
+- sent by the bus controller to remote terminal 
+- Bus controller can sent from 1 to 32 data word.
+- the selected remote terminal responds with a status word
+
 
 
