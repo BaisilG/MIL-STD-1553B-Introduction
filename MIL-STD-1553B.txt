@@ -23,3 +23,5 @@ three types of nodes
 - there can be up to 31 remote terminals.
  3. Bus Monitor
 
+- it is typically used as a message recorder or black box type function
+
