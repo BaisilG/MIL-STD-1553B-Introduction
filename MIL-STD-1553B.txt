@@ -44,5 +44,11 @@ the tranformer coupling method is preffered method. why because is it has improv
 
 
 
+1553 Message Types
+* Receive Data
+* Transmit Data
+* Broadcast Data
+* Mode Code
+* RT to RT transfer
 
 
