@@ -70,3 +70,12 @@ Broadcast Data.
 - sent by the bus controller
 
 
+Mode Code
+----------
+
+- bus controller sends command word followed by zero to one data words.
+- and the selected remote terminal sends a status word followed by one or zero data words.
+
+RT to RT Transfer
+------------------
+
