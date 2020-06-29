@@ -40,4 +40,9 @@ Two methods for connecting a  node to the bus
 1. Direct Coupling - stub length up to 1 foot
 2. Tranformer Coupling - Stub length up to 20 feet
 
+the tranformer coupling method is preffered method. why because is it has improved signal integrity and fault tolerance. 
+
+
+
+
 
