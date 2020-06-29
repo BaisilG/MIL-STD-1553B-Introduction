@@ -1,1 +1,25 @@
 MIL-STD-1553 Introduction
+
+# Introduction 
+U.S. Department of Defense military standard MIL-STD-1553
+NATO standard STANG 3838
+First published by US Air Force iin 1973
+Differential serial data bus operating at 1 mb per second.
+
+three types of nodes
+ 1. Bus Controller ----------- 
+
+-Only One in 1553
+-initiate all message traffic on the bus
+- it can command RT to transmit and receive data.
+
+
+
+ 2. Remote Terminal
+
+- provides interface between 1553 bus and subsystem.
+-it can also be used to bridge to another 1553.
+- each one has unique address
+- there can be up to 31 remote terminals.
+ 3. Bus Monitor
+
