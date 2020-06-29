@@ -25,3 +25,10 @@ three types of nodes
 
 - it is typically used as a message recorder or black box type function
 
+####################################################################################
+
+Bit rate 1.0 mb per second 
+half duplex 
+Twisted shielded cable (called as Twinax) terminated on each end.
+
+
