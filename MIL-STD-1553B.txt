@@ -65,4 +65,8 @@ Transmit Data
 - sends 16 bits command word.
 - selected remote terminal reaponds with the 16- bit status word follwed by 1 to 32 data words.
 
+Broadcast Data.
+
+- sent by the bus controller
+
 
